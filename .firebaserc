@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "eco-telemetry"
+  },
+  "targets": {
+    "eco-telemetry": {
+      "hosting": {
+        "display": [
+          "eco-display"
+        ]
+      }
+    }
+  }
+}
