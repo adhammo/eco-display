@@ -1,3 +1,14 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyBzwc4F5v90J2WV4no17XsNijLArsCKYRI",
+  authDomain: "eco-telemetry.firebaseapp.com",
+  projectId: "eco-telemetry",
+  storageBucket: "eco-telemetry.appspot.com",
+  messagingSenderId: "501642180000",
+  appId: "1:501642180000:web:5a824243a96e4a76a060c5",
+};
+
+firebase.initializeApp(firebaseConfig);
+
 const db = firebase.firestore();
 
 let unsubscribe = null;
