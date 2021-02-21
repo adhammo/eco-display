@@ -1,6 +1,6 @@
 # Eco-Display
 
-**[Eco-Display](http://eco-display.web.app/)** is the end point for [Cairo University Eco Racing Team](https://www.facebook.com/ShellEcoMarathonCUT) telemetry system (so-called _Eco-Telemetry_).
+**[Eco-Display](https://eco-display.netlify.app/)** is the end point for [Cairo University Eco Racing Team](https://www.facebook.com/ShellEcoMarathonCUT) telemetry system (so-called _Eco-Telemetry_).
 
 ## Role in Eco-Telemetry
 
